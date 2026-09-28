@@ -195,8 +195,8 @@ The wide variation confirms that Instant Book is not a one-size-fits-all lever â
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-handle>/airbnb-instant-book-analysis
-cd airbnb-instant-book-analysis
+git clone https://github.com/HimanshuRajdev/instant-book-effect-airbnb
+cd instant-book-effect-airbnb
 
 # Install dependencies
 pip install pandas numpy scipy matplotlib seaborn scikit-learn statsmodels
